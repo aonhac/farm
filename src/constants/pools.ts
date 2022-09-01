@@ -1,7 +1,7 @@
 export const Pools = [
     {
         poolAddresses: {
-            97: '0xD6d89Aa2E448c32A39B09BB9e7275900FA31A1eC',
+            97: '0x82E8a3D5D58a4c863c92f4aFA8FfFC663CB97020',
         },
         stakingTokenAddresses: {
             97: '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
@@ -15,7 +15,7 @@ export const Pools = [
     },
     {
         poolAddresses: {
-            97: '0x883A8A6c7FF1907720040f59eF09cF08Ba9265b7',
+            97: '0xDE7F236a23486Bc9F0aA7567adC1a8b0cA203B4d',
         },
         stakingTokenAddresses: {
             97: '0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee',
@@ -29,16 +29,16 @@ export const Pools = [
     },
     {
         poolAddresses: {
-            97: '0x16b711bC75bcb6c9DeAFe0CdB550bE2401eEAF3D',
+            97: '0xff201A166D7222E31FA438550b44bB8a223311dF',
         },
         stakingTokenAddresses: {
-            97: '0x5B87A076E6CdFd043FCc8d8052FB8EA5E49580cC',
+            97: '0x8105139F0Be871262C342eEA1FD0011181209217',
         },
-        name: 'PUG',
-        symbol: 'PUG',
-        tokenSymbol: 'PUG',
+        name: 'BIC',
+        symbol: 'BIC',
+        tokenSymbol: 'BIC',
         isWBNB: false,
-        icon: 'pug',
+        icon: 'bic',
         magnification: 3,
 
     },
