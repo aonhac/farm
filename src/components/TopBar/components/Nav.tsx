@@ -12,16 +12,16 @@ const Nav: React.FC = () => {
         Menu
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://puginu.finance"
+        href="https://beagleinu.com/#/"
         target="_blank"
       >
-        Pug Inu
+        Beagle Inu 
       </StyledAbsoluteLink>
       <StyledLink exact activeClassName="active" to="/nfts">
         NFTs
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://app.puginu.finance"
+        href="https://poocoin.app/tokens/0x785700bc30de3c9a8f1dcd5cdb2652150f36ecd5"
         target="_blank"
       >
         Swap
