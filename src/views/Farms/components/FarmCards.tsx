@@ -163,7 +163,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm }) => {
               </StyledDetail>
               <StyledDetail>
                 <StyledDetailSpan>APY</StyledDetailSpan>
-                <StyledDetailSpan>500.38%</StyledDetailSpan>
+                <StyledDetailSpan>300.68%</StyledDetailSpan>
               </StyledDetail>
             </StyledDetails>
             <Spacer />
@@ -183,7 +183,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm }) => {
             <StyledDetails style={{ marginTop: 0 }}>
               <StyledDetail>
                 <StyledDetailSpan>Total Liquidity</StyledDetailSpan>
-                <StyledDetailSpan>$41,270,688</StyledDetailSpan>
+                <StyledDetailSpan>$1,024,688</StyledDetailSpan>
               </StyledDetail>
             </StyledDetails>
           </StyledContent>
