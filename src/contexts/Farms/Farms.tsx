@@ -33,7 +33,7 @@ const Farms: React.FC = ({ children }) => {
       acceleratorAddress: acceleratorAddresses?.[chainId],
       tokenSymbol,
       earnToken: 'bic',
-      earnTokenAddress: '0x8105139F0Be871262C342eEA1FD0011181209217',
+      earnTokenAddress: '0x47161F942087eab16292d02d5d68EE26C41a364b',
       isWBNB,
       icon,
       nftSymbol: nftSymbol ?? '',
