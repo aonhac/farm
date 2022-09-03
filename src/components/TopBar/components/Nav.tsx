@@ -21,10 +21,16 @@ const Nav: React.FC = () => {
         NFTs
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://poocoin.app/tokens/0x785700bc30de3c9a8f1dcd5cdb2652150f36ecd5"
+        href="https://pancakeswap.finance/swap?chainId=97&outputCurrency=0x47161F942087eab16292d02d5d68EE26C41a364b"
         target="_blank"
       >
-        Swap
+        Swap Test
+      </StyledAbsoluteLink>
+      <StyledAbsoluteLink
+        href="https://testnet.binance.org/faucet-smart"
+        target="_blank"
+      >
+        Faucet
       </StyledAbsoluteLink>
     </StyledNav>
   )
